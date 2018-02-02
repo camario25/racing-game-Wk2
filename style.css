@@ -3,15 +3,21 @@
   width: 6em;
   height: 6em;
   animation-name: race;
-  margin: 0;
+  left: 0px;
+  position: relative;
+  margin: 1em;
+  
   /* animation-duration: 4s;
   animation-delay: .5s; */
 }
 #car2 {
   background-color: blue;
+  color: yellow;
   width: 6em;
   height: 6em;
-  margin-left: 0;
+  left: 0px;
+  position: relative;
+  margin: 1em;
   /* animation-name: race;
   animation-duration: 4.5s; */
 }
